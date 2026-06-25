@@ -1,0 +1,21 @@
+text,label
+This AI model achieved state-of-the-art performance on the benchmark.,positive
+The training loss diverged after epoch 3 and the model failed to converge.,negative
+LangChain makes building RAG pipelines straightforward and efficient.,positive
+The inference latency was too high for production deployment.,negative
+Das Modell erzielt hervorragende Ergebnisse bei der Textklassifikation.,positive
+Die Genauigkeit des Modells war unbefriedigend und muss verbessert werden.,negative
+Hugging Face Transformers provides excellent pretrained multilingual models.,positive
+The embedding model produced inconsistent results across different languages.,negative
+FastAPI enables building high-performance AI APIs with minimal boilerplate.,positive
+The vector database query returned irrelevant results for most queries.,negative
+BERT-based models excel at understanding context in long documents.,positive
+The model hallucinated facts that were not present in the source document.,negative
+LangGraph makes multi-agent orchestration clean and maintainable.,positive
+Token limits caused the LLM to truncate important context from the prompt.,negative
+Fine-tuning on domain-specific data significantly improved accuracy.,positive
+The pipeline crashed due to memory errors during batch processing.,negative
+Semantic search with FAISS retrieves highly relevant chunks efficiently.,positive
+The RAG system failed to retrieve the correct document for most queries.,negative
+The distilled model is 40% faster with only a 3% drop in accuracy.,positive
+Overfitting was severe — validation loss increased after the second epoch.,negative
